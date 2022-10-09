@@ -44,16 +44,15 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[8- Bootsrap Web Page](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 8- Bootsrap Home Page		 |
+[8- Bootsrap Web Page](https://mucahitkarakus.github.io/Boostrap-Project/)| 8- Bootsrap Home Page		 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[9- Bootsrap School Webseite](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 9- Bootsrap School Webseite		 |![websitem](./img/websitem.gif)
-
+[9- Bootsrap School Webseite](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 9- Bootsrap School Webseite		 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[10- SASS Profile Webseite](https://html-css-js-calculator.vercel.app/)| 10- SASS Profile Webseite  |![Calculator](./img/CALCULATOR.gif)
+[10- SASS Profile Webseite](https://mucahitkarakus.github.io/HTML_CSS_Sass_project/)| 10- SASS Profile Webseite  |
 
 
 
