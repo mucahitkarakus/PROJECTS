@@ -9,7 +9,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[1. Survey Form](https://www.muharremgem.com/)| 1- Survey Form	 |![websitem](./img/websitem.gif)
+[1. Survey Form](https://mucahitkarakus.github.io/HTML_CSS_Survery-form/)| 1- Survey Form	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
