@@ -168,8 +168,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[5- DJANGO PROJE 5](https://html-css-js-calculator.vercel.app/)| 5- DJANGO PROJE 5	 |![Calculator](./img/CALCULATOR.gif)
-
+[5- DJANGO PROJE 5](https://html-css-js-calculator.vercel.app/)| 5- DJANGO PROJE 5	 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
