@@ -44,7 +44,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[8- Bootsrap Home Page](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 8- Bootsrap Home Page		 |
+[8- Bootsrap Web Page](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 8- Bootsrap Home Page		 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
