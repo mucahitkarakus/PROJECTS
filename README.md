@@ -14,7 +14,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[2- Netflix Page](https://html-css-js-calculator.vercel.app/)| 2- Netflix Page	 |![Calculator](./img/CALCULATOR.gif)
+[2- Netflix Page](https://mucahitkarakus.github.io/HTML_CSS_Netflix/)| 2- Netflix Page	 |![Calculator](./img/CALCULATOR.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
