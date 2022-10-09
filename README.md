@@ -153,7 +153,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[2- DJANGO PROJE 2 ](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 2- DJANGO PROJE 2 	 |![Digital_clock](./img/clock.gif)
+[2- DJANGO PROJE 2 ](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 2- DJANGO PROJE 2 	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
