@@ -110,7 +110,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[1- Tour Places	](https://www.muharremgem.com/)| 1- Tour Places	 |![websitem](./img/websitem.gif)
+[1- Tour Places	](https://www.muharremgem.com/)| 1- Tour Places	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
