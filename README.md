@@ -34,7 +34,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[6- Checkout Form](https://www.muharremgem.com/)| 6- Checkout Form	 |![websitem](./img/websitem.gif)
+[6- Checkout Form](https://mucahitkarakus.github.io/HTML_CSS_Check_out/)| 6- Checkout Form	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
