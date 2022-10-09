@@ -139,7 +139,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[7- Blog App](https://www.muharremgem.com/)| 7- Blog App	 |![websitem](./img/websitem.gif)
+[7- Blog App](https://www.muharremgem.com/)| 7- Blog App	 |
 
 
 ## DJANGO
