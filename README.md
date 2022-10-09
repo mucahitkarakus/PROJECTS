@@ -39,7 +39,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[7- Team Members Page](https://html-css-js-calculator.vercel.app/)| 7- Team Members Page		 |![Calculator](./img/CALCULATOR.gif)
+[7- Team Members Page](https://mucahitkarakus.github.io/HTML_CSS_Team_Members/)| 7- Team Members Page		 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
