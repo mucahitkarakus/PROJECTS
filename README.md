@@ -124,7 +124,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[4- Task Tracker](https://www.muharremgem.com/)| 4- Task Tracker		 |![websitem](./img/websitem.gif)
+[4- Task Tracker](https://www.muharremgem.com/)| 4- Task Tracker		 |
 
 
 
