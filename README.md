@@ -24,7 +24,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[4- Parallax Webseite](https://www.muharremgem.com/)| 4- Parallax Webseite		 |![websitem](./img/websitem.gif)
+[4- Parallax Webseite](https://mucahitkarakus.github.io/HTML_CSS_Parallax/)| 4- Parallax Webseite		 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
