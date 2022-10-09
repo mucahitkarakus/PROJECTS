@@ -97,7 +97,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[9- Weather App](https://html-css-js-calculator.vercel.app/)| 9- Weather App		 |![Calculator](./img/CALCULATOR.gif)
+[9- Weather App](https://html-css-js-calculator.vercel.app/)| 9- Weather App		 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
