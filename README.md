@@ -14,12 +14,12 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[2- Netflix Page](https://mucahitkarakus.github.io/HTML_CSS_Netflix/)| 2- Netflix Page	 |![Calculator](./img/CALCULATOR.gif)
+[2- Netflix Page](https://mucahitkarakus.github.io/HTML_CSS_Netflix/)| 2- Netflix Page	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[3- Google Landig Page](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 3- Google Landig Page 	 |![Digital_clock](./img/clock.gif)
+[3- Google Landig Page](https://mucahitkarakus.github.io/HTML_CSS_Google-Clone/)| 3- Google Landig Page 	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
