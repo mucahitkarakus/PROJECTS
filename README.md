@@ -44,7 +44,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[8- Bootsrap Home Page](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 8- Bootsrap Home Page		 |![Digital_clock](./img/clock.gif)
+[8- Bootsrap Home Page](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 8- Bootsrap Home Page		 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
