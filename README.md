@@ -92,7 +92,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[8- Movie Seat App](https://www.muharremgem.com/)| 8- Movie Seat App		 |![websitem](./img/websitem.gif)
+[8- Movie Seat App](https://www.muharremgem.com/)| 8- Movie Seat App		 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
