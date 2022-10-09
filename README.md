@@ -181,4 +181,4 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[8- DJANGO PROJE 8](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 8- DJANGO PROJE 8	 |![Digital_clock](./img/clock.gif)
+[8- DJANGO PROJE 8](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 8- DJANGO PROJE 8	 |
