@@ -177,8 +177,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[7- DJANGO PROJE 7](https://html-css-js-calculator.vercel.app/)| 7- DJANGO PROJE 7	 |![Calculator](./img/CALCULATOR.gif)
-
+[7- DJANGO PROJE 7](https://html-css-js-calculator.vercel.app/)| 7- DJANGO PROJE 7	 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
