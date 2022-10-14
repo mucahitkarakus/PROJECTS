@@ -32,7 +32,7 @@
 [5- Clarusway Website Design](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 5- Clarusway Website Design		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [6- Checkout Form](https://mucahitkarakus.github.io/HTML_CSS_Check_out/)| 6- Checkout Form	 |
 
