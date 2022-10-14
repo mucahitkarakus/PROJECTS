@@ -81,7 +81,7 @@
 :-------------------------|-------------------------|-------------------------
 [5- Digital Clock](https://www.muharremgem.com/)| 5- Digital Clock	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [6- IOS Calculator](https://html-css-js-calculator.vercel.app/)| 6- IOS Calculator		 |
 
