@@ -77,7 +77,7 @@
 :-------------------------|-------------------------|-------------------------
 [4- Lottery Game](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 4- Lottery Game 	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
 [5- Digital Clock](https://www.muharremgem.com/)| 5- Digital Clock	 |
 
