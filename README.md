@@ -17,7 +17,7 @@
 [2- Netflix Page](https://mucahitkarakus.github.io/HTML_CSS_Netflix/)| 2- Netflix Page	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
 [3- Google Landig Page](https://mucahitkarakus.github.io/HTML_CSS_Google-Clone/)| 3- Google Landig Page 	 |
 
