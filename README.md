@@ -59,7 +59,7 @@
 ## JAVASCRIPT
 <hr>
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [1- Find the Number](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 1- Find the Number	 	 |
 
