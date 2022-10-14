@@ -50,7 +50,7 @@
 :-------------------------|-------------------------|-------------------------
 [9- Bootsrap School Webseite](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 9- Bootsrap School Webseite		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look. 
 :-------------------------|-------------------------|-------------------------
 [10- SASS Profile Webseite](https://mucahitkarakus.github.io/HTML_CSS_Sass_project/)| 10- SASS Profile Webseite  |
 
