@@ -46,7 +46,7 @@
 :-------------------------|-------------------------|-------------------------
 [8- Bootsrap Web Page](https://mucahitkarakus.github.io/Boostrap-Project/)| 8- Bootsrap Home Page		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [9- Bootsrap School Webseite](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 9- Bootsrap School Webseite		 |
 
