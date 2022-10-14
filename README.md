@@ -68,7 +68,7 @@
 :-------------------------|-------------------------|-------------------------
 [2- To-Do App](https://mucahitkarakus.github.io/To-do-List/)| 2- To-Do App		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [3- Hangman Game](https://html-css-js-calculator.vercel.app/)| 3- Hangman Game			 |
 
