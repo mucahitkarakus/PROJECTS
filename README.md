@@ -37,7 +37,7 @@
 [6- Checkout Form](https://mucahitkarakus.github.io/HTML_CSS_Check_out/)| 6- Checkout Form	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [7- Team Members Page](https://mucahitkarakus.github.io/HTML_CSS_Team_Members/)| 7- Team Members Page		 |
 
