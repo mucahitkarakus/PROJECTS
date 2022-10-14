@@ -64,7 +64,7 @@
 [1- Find the Number](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 1- Find the Number	 	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
 [2- To-Do App](https://mucahitkarakus.github.io/To-do-List/)| 2- To-Do App		 |
 
