@@ -90,7 +90,7 @@
 :-------------------------|-------------------------|-------------------------
 [7- Checkout Page](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 7- Checkout Page	 	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [8- Movie Seat App](https://www.muharremgem.com/)| 8- Movie Seat App		 |
 
