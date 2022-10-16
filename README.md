@@ -95,7 +95,7 @@
 [8- Movie Seat App](https://www.muharremgem.com/)| 8- Movie Seat App		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [9- Weather App](https://html-css-js-calculator.vercel.app/)| 9- Weather App		 |
 
