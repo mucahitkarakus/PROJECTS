@@ -133,7 +133,7 @@
 [5- Recipe App](https://html-css-js-calculator.vercel.app/)| 5- Recipe App		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [6- Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- Movie App		 |
 
