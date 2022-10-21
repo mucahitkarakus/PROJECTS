@@ -128,7 +128,7 @@
 
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [5- Recipe App](https://html-css-js-calculator.vercel.app/)| 5- Recipe App		 |
 
