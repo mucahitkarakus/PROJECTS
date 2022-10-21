@@ -122,7 +122,7 @@
 :-------------------------|-------------------------|-------------------------
 [3- Random User](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 3- Random User	 	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [4- Task Tracker](https://www.muharremgem.com/)| 4- Task Tracker		 |
 
