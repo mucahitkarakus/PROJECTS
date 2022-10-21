@@ -118,7 +118,7 @@
 [2- Language Cards](https://html-css-js-calculator.vercel.app/)| 2- Language Cards		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [3- Random User](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 3- Random User	 	 |
 
