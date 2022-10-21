@@ -100,7 +100,7 @@
 [9- Weather App](https://html-css-js-calculator.vercel.app/)| 9- Weather App		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [10- Other Algorithm Tasks](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 10- Other Algorithm Tasks		 |
 
