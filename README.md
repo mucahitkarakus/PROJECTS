@@ -113,7 +113,7 @@
 [1- Tour Places	](https://www.muharremgem.com/)| 1- Tour Places	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [2- Language Cards](https://html-css-js-calculator.vercel.app/)| 2- Language Cards		 |
 
