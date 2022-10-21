@@ -146,7 +146,7 @@
 <hr>
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [1- DJANGO PROJE 1](https://html-css-js-calculator.vercel.app/)| 1- DJANGO PROJE 1	 |
 
