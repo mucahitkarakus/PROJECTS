@@ -108,7 +108,7 @@
 ## REACT
 <hr>
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [1- Tour Places	](https://www.muharremgem.com/)| 1- Tour Places	 |
 
