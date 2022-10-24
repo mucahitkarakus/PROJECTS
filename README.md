@@ -175,7 +175,7 @@
 [6- DJANGO PROJE 6](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- DJANGO PROJE 6 	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
 [7- DJANGO PROJE 7](https://html-css-js-calculator.vercel.app/)| 7- DJANGO PROJE 7	 |
 
