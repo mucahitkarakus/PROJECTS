@@ -137,7 +137,7 @@
 :-------------------------|-------------------------|-------------------------
 [6- Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- Movie App		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [7- Blog App](https://www.muharremgem.com/)| 7- Blog App	 |
 
@@ -146,12 +146,12 @@
 <hr>
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [1- DJANGO PROJE 1](https://html-css-js-calculator.vercel.app/)| 1- DJANGO PROJE 1	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [2- DJANGO PROJE 2 ](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 2- DJANGO PROJE 2 	 |
 
