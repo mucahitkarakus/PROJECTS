@@ -12,7 +12,7 @@
 [1. Survey Form](https://mucahitkarakus.github.io/HTML_CSS_Survery-form/)| 1- Survey Form	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.  
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [2- Netflix Page](https://mucahitkarakus.github.io/HTML_CSS_Netflix/)| 2- Netflix Page	 |
 
