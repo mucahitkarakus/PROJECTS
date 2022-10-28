@@ -7,7 +7,7 @@
 ## HTML CSS
 <hr>
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [1. Survey Form](https://mucahitkarakus.github.io/HTML_CSS_Survery-form/)| 1- Survey Form	 |
 
