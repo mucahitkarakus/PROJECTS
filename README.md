@@ -64,29 +64,29 @@
 [1- Find the Number](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 1- Find the Number	 	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.  
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [2- To-Do App](https://mucahitkarakus.github.io/To-do-List/)| 2- To-Do App		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [3- Hangman Game](https://html-css-js-calculator.vercel.app/)| 3- Hangman Game			 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.  
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [4- Lottery Game](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 4- Lottery Game 	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.  
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [5- Digital Clock](https://www.muharremgem.com/)| 5- Digital Clock	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [6- IOS Calculator](https://html-css-js-calculator.vercel.app/)| 6- IOS Calculator		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [7- Checkout Page](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 7- Checkout Page	 	 |
 
