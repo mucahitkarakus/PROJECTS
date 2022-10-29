@@ -27,30 +27,30 @@
 [4- Parallax Webseite](https://mucahitkarakus.github.io/HTML_CSS_Parallax/)| 4- Parallax Webseite		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look  
+  Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
 [5- Clarusway Website Design](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 5- Clarusway Website Design		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [6- Checkout Form](https://mucahitkarakus.github.io/HTML_CSS_Check_out/)| 6- Checkout Form	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
 [7- Team Members Page](https://mucahitkarakus.github.io/HTML_CSS_Team_Members/)| 7- Team Members Page		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look 
+  Project Name       |Libraries and Technologies I use     |How does my project look. 
 :-------------------------|-------------------------|-------------------------
 [8- Bootsrap Web Page](https://mucahitkarakus.github.io/Boostrap-Project/)| 8- Bootsrap Home Page		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [9- Bootsrap School Webseite](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 9- Bootsrap School Webseite		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look 
+  Project Name       |Libraries and Technologies I use     |How does my project look. 
 :-------------------------|-------------------------|-------------------------
 [10- SASS Profile Webseite](https://mucahitkarakus.github.io/HTML_CSS_Sass_project/)| 10- SASS Profile Webseite  |
 
@@ -59,29 +59,29 @@
 ## JAVASCRIPT
 <hr>
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
 [1- Find the Number](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 1- Find the Number	 	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look  
+  Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
 [2- To-Do App](https://mucahitkarakus.github.io/To-do-List/)| 2- To-Do App		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
 [3- Hangman Game](https://html-css-js-calculator.vercel.app/)| 3- Hangman Game			 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look  
+  Project Name       |Libraries and Technologies I use     |How does my project look. 
 :-------------------------|-------------------------|-------------------------
 [4- Lottery Game](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 4- Lottery Game 	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look  
+  Project Name       |Libraries and Technologies I use     |How does my project look.
 :-------------------------|-------------------------|-------------------------
 [5- Digital Clock](https://www.muharremgem.com/)| 5- Digital Clock	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
 [6- IOS Calculator](https://html-css-js-calculator.vercel.app/)| 6- IOS Calculator		 |
 
