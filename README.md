@@ -165,11 +165,11 @@
 [4- DJANGO PROJE 4](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 4- DJANGO PROJE 4	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look . 
+  Project Name       |Libraries and Technologies I use     |How does my project look. 
 :-------------------------|-------------------------|-------------------------
 [5- DJANGO PROJE 5](https://html-css-js-calculator.vercel.app/)| 5- DJANGO PROJE 5	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look  
+  Project Name       |Libraries and Technologies I use     |How does my project look. 
 :-------------------------|-------------------------|-------------------------
 [6- DJANGO PROJE 6](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- DJANGO PROJE 6 	 |
 
