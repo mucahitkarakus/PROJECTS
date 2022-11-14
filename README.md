@@ -32,17 +32,17 @@
 [5- Clarusway Website Design](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 5- Clarusway Website Design		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [6- Checkout Form](https://mucahitkarakus.github.io/HTML_CSS_Check_out/)| 6- Checkout Form	 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.  
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [7- Team Members Page](https://mucahitkarakus.github.io/HTML_CSS_Team_Members/)| 7- Team Members Page		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look. 
+  Project Name       |Libraries and Technologies I use     |How does my project look 
 :-------------------------|-------------------------|-------------------------
 [8- Bootsrap Web Page](https://mucahitkarakus.github.io/Boostrap-Project/)| 8- Bootsrap Home Page		 |
 
