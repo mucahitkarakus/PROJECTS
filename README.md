@@ -46,11 +46,11 @@
 :-------------------------|-------------------------|-------------------------
 [8- Bootsrap Web Page](https://mucahitkarakus.github.io/Boostrap-Project/)| 8- Bootsrap Home Page		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [9- Bootsrap School Webseite](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 9- Bootsrap School Webseite		 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look. 
+  Project Name       |Libraries and Technologies I use     |How does my project look 
 :-------------------------|-------------------------|-------------------------
 [10- SASS Profile Webseite](https://mucahitkarakus.github.io/HTML_CSS_Sass_project/)| 10- SASS Profile Webseite  |
 
@@ -81,12 +81,12 @@
 :-------------------------|-------------------------|-------------------------
 [5- Digital Clock](https://www.muharremgem.com/)| 5- Digital Clock	 |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.  
+  Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 [6- IOS Calculator](https://html-css-js-calculator.vercel.app/)| 6- IOS Calculator		 |
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
+  Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [7- Checkout Page](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 7- Checkout Page	 	 |
 
