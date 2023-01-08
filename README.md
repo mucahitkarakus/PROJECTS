@@ -120,7 +120,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
-[3- Random User](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 3- Random User	 	 |
+[3- Random User]((https://splendorous-donut-bcd48d.netlify.app/))| 3- Random User	 	 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
