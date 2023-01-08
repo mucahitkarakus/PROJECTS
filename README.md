@@ -115,7 +115,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
-[2- Language Cards](https://html-css-js-calculator.vercel.app/)| 2- Language Cards		 |
+[2- Language Cards](https://graceful-parfait-2d207b.netlify.app/)| 2- Language Cards		 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look.  
