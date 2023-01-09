@@ -142,11 +142,11 @@
 [7- Blog App](https://www.muharremgem.com/)| 7- Blog App	 |
 
 
-## DJANGO
+## NEXTJS
 <hr>
 
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
-[8- DJANGO PROJE 8](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 8- DJANGO PROJE 8	 |
+[1- Capture Photo](https://nextjs-photography.netlify.app/)|  |
