@@ -149,4 +149,4 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
-[1- Capture Photo](https://nextjs-photography.netlify.app/)|  |
+[1- Capture Photo](https://nextjs-photography.netlify.app/)|NextJS, Tailwind, Api  |
