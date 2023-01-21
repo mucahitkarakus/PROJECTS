@@ -59,50 +59,29 @@
 ## JAVASCRIPT
 <hr>
 
-  Project Name       |Libraries and Technologies I use     |How does my project look  
-:-------------------------|-------------------------|-------------------------
-[1- Find the Number](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 1- Find the Number	 	 |
-
-
   Project Name       |Libraries and Technologies I use     |How does my project look 
 :-------------------------|-------------------------|-------------------------
-[2- To-Do App](https://mucahitkarakus.github.io/To-do-List/)| 2- To-Do App		 |
-
-  Project Name       |Libraries and Technologies I use     |How does my project look  
-:-------------------------|-------------------------|-------------------------
-[3- Hangman Game](https://html-css-js-calculator.vercel.app/)| 3- Hangman Game			 |
+[1- To-Do App](https://mucahitkarakus.github.io/To-do-List/)| 2- To-Do App		 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[4- Lottery Game](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 4- Lottery Game 	 |
-
-  Project Name       |Libraries and Technologies I use     |How does my project look
-:-------------------------|-------------------------|-------------------------
-[5- Digital Clock](https://www.muharremgem.com/)| 5- Digital Clock	 |
+[2- Digital Clock](https://mucahitkarakus.github.io/JAvaScript-Digital-Clock/)| 5- Digital Clock	 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
-[6- IOS Calculator](https://html-css-js-calculator.vercel.app/)| 6- IOS Calculator		 |
+[3- IOS Calculator](https://mucahitkarakus.github.io/JavaScript-Ios-Calculator/)| 6- IOS Calculator		 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[7- Checkout Page](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 7- Checkout Page	 	 |
-
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
-:-------------------------|-------------------------|-------------------------
-[8- Movie Seat App](https://www.muharremgem.com/)| 8- Movie Seat App		 |
+[4- Checkout Page](https://checkout-js-psi.vercel.app/)| 7- Checkout Page	 	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
-[9- Weather App](https://html-css-js-calculator.vercel.app/)| 9- Weather App		 |
+[5- Weather App](https://weather-app800.netlify.app/)| 8- Weather App		 |
 
-
-  Project Name       |Libraries and Technologies I use     |How does my project look.   
-:-------------------------|-------------------------|-------------------------
-[10- Other Algorithm Tasks](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 10- Other Algorithm Tasks		 |
 
 
 ## REACT
@@ -132,14 +111,6 @@
 :-------------------------|-------------------------|-------------------------
 [5- Recipe App](https://fireblog-app-mw75.vercel.app/)| 5- Recipe App		 |
 
-
-  Project Name       |Libraries and Technologies I use     |How does my project look.  
-:-------------------------|-------------------------|-------------------------
-[6- Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- Movie App		 |
-
-  Project Name       |Libraries and Technologies I use     |How does my project look.  
-:-------------------------|-------------------------|-------------------------
-[7- Blog App](https://www.muharremgem.com/)| 7- Blog App	 |
 
 
 ## NEXTJS
