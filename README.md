@@ -9,50 +9,41 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
-[1. Survey Form](https://mucahitkarakus.github.io/HTML_CSS_Survery-form/)| 1- Survey Form	 |
+[1. Survey Form](https://html-css-survery-form.vercel.app/)| 1- Survey Form	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[2- Netflix Page](https://mucahitkarakus.github.io/HTML_CSS_Netflix/)| 2- Netflix Page	 |
+[2- Netflix Page](https://vercel.com/mucahitkarakus/html-css-survery-form-xjms/AcYFELxfNS8iPmc7Xk8mNay8ZMQx)| 2- Netflix Page	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
-[3- Google Landig Page](https://mucahitkarakus.github.io/HTML_CSS_Google-Clone/)| 3- Google Landig Page 	 |
+[3- Google Landig Page](https://html-css-google-clone.vercel.app/)| 3- Google Landig Page 	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
-[4- Parallax Webseite](https://mucahitkarakus.github.io/HTML_CSS_Parallax/)| 4- Parallax Webseite		 |
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look 
-:-------------------------|-------------------------|-------------------------
-[5- Clarusway Website Design](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 5- Clarusway Website Design		 |
+[4- Parallax Webseite](https://html-css-parallax.vercel.app/)| 4- Parallax Webseite		 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
-[6- Checkout Form](https://mucahitkarakus.github.io/HTML_CSS_Check_out/)| 6- Checkout Form	 |
+[6- Checkout Form](https://html-css-check-out-9lzv.vercel.app/)| 6- Checkout Form	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
-[7- Team Members Page](https://mucahitkarakus.github.io/HTML_CSS_Team_Members/)| 7- Team Members Page		 |
+[7- Team Members Page](https://html-css-team-members.vercel.app/)| 7- Team Members Page		 |
 
-
-  Project Name       |Libraries and Technologies I use     |How does my project look 
-:-------------------------|-------------------------|-------------------------
-[8- Bootsrap Web Page](https://mucahitkarakus.github.io/Boostrap-Project/)| 8- Bootsrap Home Page		 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[9- Bootsrap School Webseite](https://mucahitkarakus.github.io/Boostrap-Project-2/)| 9- Bootsrap School Webseite		 |
+[9- Bootsrap School Webseite](https://boostrap-project-jlspcciav-mucahitkarakus.vercel.app/)| 9- Bootsrap School Webseite		 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look 
 :-------------------------|-------------------------|-------------------------
-[10- SASS Profile Webseite](https://mucahitkarakus.github.io/HTML_CSS_Sass_project/)| 10- SASS Profile Webseite  |
+[10- SASS Profile Webseite](https://html-css-sass-project.vercel.app/)| 10- SASS Profile Webseite  |
 
 
 
