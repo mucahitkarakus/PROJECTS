@@ -14,7 +14,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[2- Netflix Page](https://vercel.com/mucahitkarakus/html-css-survery-form-xjms/AcYFELxfNS8iPmc7Xk8mNay8ZMQx)| 2- Netflix Page	 |
+[2- Netflix Page](https://html-css-survery-form-xjms.vercel.app/)| 2- Netflix Page	 |
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look  
