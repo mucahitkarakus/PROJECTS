@@ -120,7 +120,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look.  
 :-------------------------|-------------------------|-------------------------
-[3- Random User](https://splendorous-donut-bcd48d.netlify.app/)| 3- Random User	 	 |
+[3- Random User](https://random-usera-app.netlify.app/)| 3- Random User	 	 |
 
   Project Name       |Libraries and Technologies I use     |How does my project look.   
 :-------------------------|-------------------------|-------------------------
